@@ -22,7 +22,7 @@
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardikjain0101/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardikjain0101/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hardikjain0101) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardikjain0101/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardikjain0101/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hardikjain0101)
 
 
 
@@ -43,3 +43,8 @@
 
 * [Tips to make your LinkedIn or GitHub or Any profile look astonishing....!!!!](https://hardikjain0101.blogspot.com/2021/12/ways-to-make-your-linkedin-or-github-or.html)
 * [Google Keep Notes](https://hardikjain0101.blogspot.com/2021/11/google-keep-notes.html)
+
+
+## Achievements
+  
+  [![@hardikjain0101's Holopin board](https://holopin.io/api/user/board?user=hardikjain0101)](https://holopin.io/@hardikjain0101)
